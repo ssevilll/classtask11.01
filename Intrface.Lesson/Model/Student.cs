@@ -46,13 +46,13 @@
             }
         }
 
-        public Student(string FullName, string GroupNo, int Age)
+        public Student(string fullName, string groupNo, int age)
         {
-            FullName= FullName;
-            GroupNo= GroupNo;
-            Age= Age;
-
+            FullName = fullName;
+            GroupNo = groupNo;
+            Age = age;
         }
+
 
         public static bool CheckGroupNo(string groupNo)
         {

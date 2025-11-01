@@ -23,10 +23,29 @@ namespace Intrface.Lesson
             //Console.WriteLine(str.GetSecondWord());
             #endregion
 
-            string test = "Salam Kamran. Necəsən Kamran";
-            string substring = "Kamran";
-            Console.WriteLine(test.MatchCount(substring));
+            #region Task3
+            //string test = "Salam Kamran. Necəsən Kamran";
+            //string substring = "Kamran";
+            //Console.WriteLine(test.MatchCount(substring)); 
+            #endregion
 
+
+            ProgrammingStudent ps = new ProgrammingStudent()
+            {
+                FullName = "John Doe",
+                GroupNo = 101
+            };
+
+            DesignStudent ds = new DesignStudent()
+            {
+                FullName = "Jane Smith",
+                GroupNo = 102
+            };
+
+            ps.DoHomework();
+            ds.DoHomework();
+
+            Console.ReadLine();
 
 
         }
