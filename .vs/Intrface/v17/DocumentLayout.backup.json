@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\sevilsb\\Desktop\\Intrface\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B95DBDFB-847E-4C30-B80B-9DF61360B2A3}|Intrface.Lesson\\Intrface.Lesson.csproj|c:\\users\\sevilsb\\desktop\\intrface\\intrface.lesson\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95DBDFB-847E-4C30-B80B-9DF61360B2A3}|Intrface.Lesson\\Intrface.Lesson.csproj|solutionrelative:intrface.lesson\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95DBDFB-847E-4C30-B80B-9DF61360B2A3}|Intrface.Lesson\\Intrface.Lesson.csproj|c:\\users\\sevilsb\\desktop\\intrface\\intrface.lesson\\extensions\\extentionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95DBDFB-847E-4C30-B80B-9DF61360B2A3}|Intrface.Lesson\\Intrface.Lesson.csproj|solutionrelative:intrface.lesson\\extensions\\extentionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B95DBDFB-847E-4C30-B80B-9DF61360B2A3}|Intrface.Lesson\\Intrface.Lesson.csproj|c:\\users\\sevilsb\\desktop\\intrface\\intrface.lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B95DBDFB-847E-4C30-B80B-9DF61360B2A3}|Intrface.Lesson\\Intrface.Lesson.csproj|solutionrelative:intrface.lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B95DBDFB-847E-4C30-B80B-9DF61360B2A3}|Intrface.Lesson\\Intrface.Lesson.csproj|c:\\users\\sevilsb\\desktop\\intrface\\intrface.lesson\\extensions\\strextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B95DBDFB-847E-4C30-B80B-9DF61360B2A3}|Intrface.Lesson\\Intrface.Lesson.csproj|solutionrelative:intrface.lesson\\extensions\\strextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B95DBDFB-847E-4C30-B80B-9DF61360B2A3}|Intrface.Lesson\\Intrface.Lesson.csproj|c:\\users\\sevilsb\\desktop\\intrface\\intrface.lesson\\extensions\\extentionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B95DBDFB-847E-4C30-B80B-9DF61360B2A3}|Intrface.Lesson\\Intrface.Lesson.csproj|solutionrelative:intrface.lesson\\extensions\\extentionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +34,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sevilsb\\Desktop\\Intrface\\Intrface.Lesson\\Program.cs",
               "RelativeDocumentMoniker": "Intrface.Lesson\\Program.cs",
-              "ToolTip": "C:\\Users\\sevilsb\\Desktop\\Intrface\\Intrface.Lesson\\Program.cs",
-              "RelativeToolTip": "Intrface.Lesson\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sevilsb\\Desktop\\Intrface\\Intrface.Lesson\\Program.cs*",
+              "RelativeToolTip": "Intrface.Lesson\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-01T10:03:57.368Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ExtentionMethods.cs",
               "DocumentMoniker": "C:\\Users\\sevilsb\\Desktop\\Intrface\\Intrface.Lesson\\Extensions\\ExtentionMethods.cs",
               "RelativeDocumentMoniker": "Intrface.Lesson\\Extensions\\ExtentionMethods.cs",
@@ -56,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "StrExtensions.cs",
               "DocumentMoniker": "C:\\Users\\sevilsb\\Desktop\\Intrface\\Intrface.Lesson\\Extensions\\StrExtensions.cs",
               "RelativeDocumentMoniker": "Intrface.Lesson\\Extensions\\StrExtensions.cs",
@@ -64,7 +68,19 @@
               "RelativeToolTip": "Intrface.Lesson\\Extensions\\StrExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T10:29:19.726Z",
+              "WhenOpened": "2025-11-01T10:29:19.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sevilsb\\Desktop\\Intrface\\Intrface.Lesson\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Intrface.Lesson\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\sevilsb\\Desktop\\Intrface\\Intrface.Lesson\\Model\\Student.cs*",
+              "RelativeToolTip": "Intrface.Lesson\\Model\\Student.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAA0wDAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T10:32:11.88Z",
               "EditorCaption": ""
             }
           ]

@@ -26,6 +26,9 @@ namespace Intrface.Lesson
             string test = "Salam Kamran. Necəsən Kamran";
             string substring = "Kamran";
             Console.WriteLine(test.MatchCount(substring));
+
+
+
         }
     }
 }
